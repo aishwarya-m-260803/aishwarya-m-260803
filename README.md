@@ -1,47 +1,55 @@
 <div align="center">
+
 # Hi 👋 I'm Aishwarya M
 
 ### 🧠 AI • ⚙️ Backend • ⛓️ Blockchain
 
-> Building intelligent, scalable and decentralized software.
-
-<br>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Developer;Backend+Developer;Blockchain+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
+**I teach machines to think, APIs to behave, and smart contracts not to break.**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 A little about me
 
-I'm an MCA student building software across **Artificial Intelligence, Backend Engineering, and Blockchain**. I enjoy turning ideas into practical systems — from AI-powered applications and RESTful services to smart contracts and decentralized solutions.
+I'm an MCA student who somehow ended up enjoying the intersection of **AI, Backend Engineering, and Blockchain** — and decided to stay there.
 
----
+I like building things rather than just reading about them: training models, designing APIs, working with databases, writing smart contracts, and occasionally wondering why the code worked five minutes ago. :)
 
-## 🧠 Artificial Intelligence
-
-**Machine Learning** • **Deep Learning** • **Computer Vision** • **Neural Networks** • **Model Development** • **Model Evaluation** • **Data Preprocessing** • **Feature Engineering** • **TensorFlow** • **PyTorch** • **Scikit-learn** • **Keras** • **NumPy** • **Pandas**
+My main interest is **AI**, but I enjoy everything around it that makes an idea actually usable — from backend systems to decentralized infrastructure.
 
 ---
 
-## ⚙️ Backend Engineering
+## 🧠 AI
 
-**REST APIs** • **API Development** • **Server-side Development** • **API Integration** • **Authentication & Authorization** • **Database Design** • **CRUD Operations** • **Backend Architecture** • **MongoDB** • **SQL Server** • **Node.js** • **Python** • **Go** • **Git & GitHub**
+**Machine Learning** • **Deep Learning** • **Computer Vision** • **Neural Networks** • **Model Development** • **Data Preprocessing** • **Feature Engineering** • **Model Evaluation** • **TensorFlow** • **PyTorch** • **Scikit-learn** • **Keras** • **NumPy** • **Pandas**
+
+> *Teaching computers to find patterns so I don't have to.*
 
 ---
 
-## ⛓️ Blockchain Development
+## ⚙️ Backend
+
+**REST APIs** • **API Development** • **API Integration** • **Authentication & Authorization** • **CRUD Operations** • **Database Design** • **Server-side Development** • **Backend Architecture** • **MongoDB** • **SQL Server** • **Node.js** • **Python** • **Go** • **Git & GitHub**
+
+> *Because a good AI model still needs somewhere to live.*
+
+---
+
+## ⛓️ Blockchain
 
 **Ethereum** • **EVM** • **Solidity** • **Smart Contract Development** • **Contract Testing** • **ERC-20** • **ERC-721** • **EIP-712** • **Merkle Trees** • **DeFi** • **AMM** • **Hardhat** • **OpenZeppelin** • **Ethers.js** • **Web3.js** • **Hyperledger Fabric**
 
+> *Making computers agree with each other without needing a group chat.*
+
 ---
 
-## 🛠️ Engineering Toolkit
+## 🛠️ My Engineering Toolkit
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,js,nodejs,mongodb,mysql,git,github,docker,tensorflow,pytorch,vscode&perline=6"/>
+
+<img src="https://skillicons.dev/icons?i=python,go,js,nodejs,mongodb,mysql,git,github,docker,vscode&perline=5"/>
+
 </p>
 
 ---
@@ -50,21 +58,23 @@ I'm an MCA student building software across **Artificial Intelligence, Backend E
 
 **AI-powered applications** • **Smart Contract Security** • **DeFi Protocols** • **Distributed Systems** • **Hyperledger Fabric** • **Web3 Architecture**
 
+Currently somewhere between *"I understand this"* and *"let me just try it and see what happens."*
+
 ---
 
 ## 🌿 Beyond Code
 
-🎓 **Academic Events Coordinator** — organizing and coordinating academic events at college
+🎓 **Academic Events Coordinator** — organizing college academic events and discovering that coordinating people can sometimes be harder than debugging code.
 
-🥋 **Taekwondo Player** — discipline, resilience and consistency
+🥋 **Taekwondo Player** — discipline, consistency and occasionally getting kicked.
 
-📚 **Reader** — always exploring new ideas beyond technology
+📚 **Reader** — because not everything worth learning comes with documentation.
 
-✍️ **Poetry Writer** — finding a creative side outside code
+✍️ **Poetry Writer** — my other way of turning thoughts into something that compiles... metaphorically.
 
 ---
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <p align="center">
 
