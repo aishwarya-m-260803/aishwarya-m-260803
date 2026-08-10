@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋 I'm Aishwarya M
 
 ### 🧠 AI • ⚙️ Backend • ⛓️ Blockchain
@@ -8,6 +9,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Developer;Backend+Developer;Blockchain+Developer;Always+Building+Something+New)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
